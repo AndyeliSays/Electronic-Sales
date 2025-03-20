@@ -50,7 +50,7 @@ FROM electronic_sales_sep2023_sep2024_cleaned es;
 
 ## (Customer Demographics & Loyalty)
 
-### 2. Age Breakdown
+### 1. Age Breakdown
 ```sql
 WITH latest_status AS (		-- CTE for loyalty member most recent status and age segments
     SELECT 
@@ -107,7 +107,7 @@ ORDER BY age_segment, "Gender", "Loyalty Member";
 - Customer distribution varies significantly across age segments and loyalty membership but Senior and Middle Age customers seem to dominate the count.
 - Loyalty members don't always spend the most. For example, Senior loyalty members have a lower average spend than non-loyal ones.
 
-### 3. Loyalty Members Percentage
+### 2. Loyalty Members Percentage
 ```sql
 WITH latest_status AS ( 
     SELECT 
@@ -144,7 +144,7 @@ FROM most_recent_status ms;
 - For loyalty members, # completed orders (filtering in outer query) : 21.06% 
 - No filter: 21.05%, suggests uniform participation across order completion status
 
-### Loyalty Change & Average Order Value
+### 3. Loyalty Change & Average Order Value
 ```sql
 WITH loyalty_changes AS (		--CTE using LAG to track YES->NO & NO->YES
     SELECT
