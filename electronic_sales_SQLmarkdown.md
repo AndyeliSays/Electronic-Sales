@@ -104,8 +104,8 @@ ORDER BY age_segment, "Gender", "Loyalty Member";
 
 <img src=https://github.com/AndyeliSays/Electronic-Sales/blob/main/assets/agebreakdown.png>
 
-- Customer distribution varies significantly across age segments and loyalty membership but Senior and Middle Age customers seem to dominate the count.
-- Loyalty members don't always spend the most. For example, Senior loyalty members have a lower average spend than non-loyal ones.
+- Customer distribution varies significantly across age segments and loyalty membership but Senior and Middle Age customers seem to order the most.
+- Loyalty members don't always spend the most. For example, Senior loyalty members have a lower average spend than non- loyalty members.
 
 ### 2. Loyalty Members Percentage
 ```sql
