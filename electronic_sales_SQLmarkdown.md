@@ -180,6 +180,9 @@ SELECT
      FROM electronic_sales_sep2023_sep2024_cleaned es
      WHERE es."Loyalty Member" = 'No' AND es."Order Status" = 'Completed') AS avg_addon_value_non_loyalty
 FROM customer_metrics es;
+
+-- Need to be strategic about where to use =completed orders filter
+-- Loyalty member can change over time so need to check for last purchase date loyalty member = yes, had to redo all queries with loyalty member because of this transition
 ```
 
 <img src=https://github.com/AndyeliSays/Electronic-Sales/blob/main/assets/loyaltychange.png>
