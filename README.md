@@ -52,10 +52,10 @@ The dataset contains electronic sales data spanning September 2023 to September 
 
 ## Customer Demographics & Behavior
 - Customer base is relatively balanced between genders with (10,165) male customers and (9,835) female customers.
-- Senior have the highest average spend amongst non-loyalty members. Specifically Senior Male (non-loyalty Members) with an average spend ($3,186.33).
-- Young Adults have significantly fewer customers (138 males) but the highest average spending amonst Loyalty Members ($3,344.02). 
-- Senior and Middle Age groups having the highest the customer counts, espeically for non-loyalty members.
+- Seniors age group have the highest average spend amongst non-loyalty members. Specifically Senior Male (non-loyalty Members) with an average spend ($3,186.33).
+- Senior and Middle Age groups have the highest customer counts, espeically for non-loyalty members.
     - There seems to be a trend with Age, as Age increases, so do customer counts.
+- Young Adults have significantly fewer customers (138 males) but the highest average spending amonst Loyalty Members ($3,344.02). 
 - While satisfaction rating hovers around a little over (3/5) across the board for all groups, females tend to have slightly lower satisfaction ratings, especially non-loyalty members.
 - Loyalty members generally have higher satisfaction scores across all age segments, though spending varies. 
 
