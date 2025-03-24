@@ -67,7 +67,7 @@ The dataset contains electronic sales data spanning September 2023 to September 
     - This suggests that loyalty members are more likely to purchase addons, even if their overall AOV is lower.
 
 ## Payment & Shipping
-- PayPal have the most (3,863) transactions (29.03%) and total revenue of ($12,579,687.13).
+- PayPal has the most (3,863) transactions (29.03%) and total revenue of ($12,579,687.13).
 - Bank Transfer has a significant share with (2,259) transactions (16.82%) and total revenue of ($8,450,692.44).
 - Cash transactions are relatively low in volume (1,727, 12.86%) and have the lowest average order value ($2,543.44).
 - Standard Shipping has the highest number of unique customers (4,053), making it the most widely used shipping type. 
