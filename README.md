@@ -48,7 +48,7 @@ The dataset contains electronic sales data spanning September 2023 to September 
     - This suggests a strong seasonal demand, possibly influenced by holiday shopping.
 - The average order value (AOV) is highest in June 2024 ($3,310.60) and lowest in September 2023 ($2,287.39). 
     - There seems to be a steady growth in AOV, order count and total units over time suggesting customers are spending more per order. 
-- A decline in performance is noticeable from July to September 2024, with the lowest revenue in September ($3,382,246.45).
+- A decline in performance is noticeable from July to September 2024.
 
 ## Customer Demographics & Behavior
 - Customer base is relatively balanced between genders with (10,165) male customers and (9,835) female customers.
