@@ -118,7 +118,7 @@ The dataset contains electronic sales data spanning September 2023 to September 
     - Recency score 2, 3, and 4 customers are the most promising segments for driving business growth. These customers are actively purchasing and producing the highest revenue. Concentrating marketing and retention efforts here could maximize ROI.
     - Leverage Frequency score 2 customers' engagement and revenue peaks to scale repeat purchases.
     - Prioritize Monetary score 2 customers, the backbone of revenue, with tailored strategies to maintain their revenue. 
-    - Target RFM Total scores 4-8 customers for retention and growth efforts, as they form the majority segment.
+    - Target RFM Total scores 4-8 customers for retention and growth efforts, as they form the majority.
     - Investigate outliers to understand their purchasing behaviors and replicate successful patterns with other customers because they contribute significantly to revenue.
     - Address disengagement among customers with high Recency but low Frequency and Monetary scores through reactivation campaigns.
 
