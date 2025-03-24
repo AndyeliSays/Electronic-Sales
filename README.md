@@ -44,7 +44,7 @@ The dataset contains electronic sales data spanning September 2023 to September 
 
 ## Sales & Revenue Performance
 - Total revenue generated is approximately ($63.6 million) with a net revenue of ($42.6 million) from completed orders (109,711 units sold).
-- Sales performance significantly improves during the winter months, peaking in January 2024, with the highest total revenue of ($4,516,277.41), the highest number of orders (1,399). 
+- Sales performance significantly improves during the winter months, peaking in January 2024, with the highest total revenue of ($4,516,277.41), and the highest number of orders (1,399). 
     - This suggests a strong seasonal demand, possibly influenced by holiday shopping.
 - The average order value (AOV) is highest in June 2024 ($3,310.60) and lowest in September 2023 ($2,287.39). 
     - There seems to be a steady growth in AOV, order count and total units over time suggesting customers are spending more per order. 
