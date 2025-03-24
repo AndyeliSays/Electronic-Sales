@@ -127,8 +127,8 @@ The dataset contains electronic sales data spanning September 2023 to September 
 - Focus on top-performing SKUs (SMP234, TBL345, SKU1003).
 - Further research is needed for severely underperforming (SKU1001) compared to other products.
 - Create bundled offerings for Smartphones with popular accessories to leverage their high sales volume.
-- Develop specialized warranty programs for Headphones, which show strong warranty attachment potential.
 - Explore bundle deals for SKUs with high add-on potential. (HDP456, LTP123).
+- Look into warranty programs for Headphones, which show strong warranty attachment potential.
 
 ## 3. Operations
 - Optimize inventory and promotions for peak months (January and April).
