@@ -93,7 +93,10 @@ The dataset contains electronic sales data spanning September 2023 to September 
 - The amount spent per customer ranges from ($21) to upwards of ($29,938).
 - **Recency Score:** The majority of customers have a score of 2, 3, 4. These customers also show higher revenue totals. 
 - **Frequency Score:** The majority of customers have a frequency score of 3, 2, 1. Customers with a frequency score of 3 and 2 have the highest revenue totals.
-- **Monetary Score:** The highest concentration of data points is at Monetary Score of 2, covering a wide range of revenue values, approximately ($12,000) to ($26,000). No Customers have a monetary score of 3 or 4. Customers at Monetary score 1 mostly generate revenues below $6,000, making them the lowest-performing group. Though fewer in number, Monetary score 5 contains customers generating significant revenue values, peaking around ($22,000).
+- **Monetary Score:** The highest concentration of data points is at Monetary Score of 2, covering a wide range of revenue values, approximately ($12,000) to ($26,000).
+  - No Customers have a monetary score of 3 or 4.
+  - Customers at Monetary score 1 mostly generate revenues below $6,000, making them the lowest-performing group.
+  - Though fewer in number, Monetary score 5 contains customers generating significant revenue values, peaking around ($22,000).
 - **RFM total:** Aside from some outliters geenrating high revenue values with moderate RFM scores, as RFM total score increases so does revenue. 
     - The scatter plot shows a dense cluster of customers with RFM Total scores between 4 and 8, contributing variable revenue from $5,000 to $15,000. 
         - This suggests most customers fall into this range and are likely mid-tier in terms of engagement and spending. 
