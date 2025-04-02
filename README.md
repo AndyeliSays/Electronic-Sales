@@ -1,6 +1,6 @@
 --- SQL CLEANING & ANALYSIS -> [ Electronic_Sales_SQL_Markdown ](https://github.com/AndyeliSays/Electronic-Sales/blob/main/electronic_sales_SQLmarkdown.md)
 
---- TABLEAU DASHBOARD ->
+--- TABLEAU DASHBOARD -> [ Electronic Sales ]()
 
 <img src=https://github.com/AndyeliSays/Electronic-Sales/blob/main/assets/Electronic_sales_dashboard1_overview.png>
 
